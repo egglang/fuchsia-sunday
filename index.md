@@ -1,16 +1,11 @@
 Fuchsia Japanese
 ========
 
+作成中
 
-Hello
+
 -----
 
-1. [実デバイスへのインストール](install-pixel.md)
- 
-   1. foo
-   2. bar
-
-```
-Hello, Fuchsia.
-```
+- [4つのレイヤー](4layers.md)
+- [実デバイスへのインストール](install-pixel.md)
  
