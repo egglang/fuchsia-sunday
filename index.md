@@ -1,5 +1,3 @@
-Fuchsia Japanese
-========
 
 このページは、[Fuchsia](https://fuchsia.googlesource.com/)という新しいOSの技術情報を日本語でまとめることを目的としています。
 
